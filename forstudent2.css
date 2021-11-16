@@ -1,0 +1,52 @@
+.btn-group{
+    display:flex;
+    flex-wrap: wrap;
+    align-items:center;
+    width: 100%;
+    background: #074972;
+    padding: 100px 10px 50px 10px;
+    justify-content: center;
+  
+   
+}
+.btn-left{
+    flex: 30%;
+    background: #bed5e4;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow:10px 5px 16px black;
+    font-family:  serif;
+    
+    
+}
+.btn-right{
+    flex: 30%;
+    background: #bed5e4;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 10px 5px 16px black;
+    font-family:  serif;
+    
+}
+.but{
+    background-color: #4CAF50; /* Green */
+    border:2px solid black;
+    color: white;
+    padding: 15px 32px ;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius:2px;
+    text-align: center;
+   
+    
+    
+}
+
+.center
+{
+     display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
